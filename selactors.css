@@ -1,0 +1,18 @@
+/* elements selactors */
+p {
+    color: red;
+    border: 2px solid green;
+}
+/* id elements */
+#red {
+    color: blue;
+}
+/* class elements */
+.cl {
+    background-color: aquamarine;
+}
+/* group element */
+span, footer{
+    background-color: black;
+    color: aliceblue;
+}

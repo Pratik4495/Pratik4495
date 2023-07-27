@@ -1,0 +1,21 @@
+.pa {
+    background-color: rgb(135, 135, 204);
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    border-color: brown;
+    border-width: 7px;
+    border-style: double;
+    border-radius: 15px;
+    /* we can alse use border and border-radius  =  top,bottom,left,right */
+}
+
+.pat {
+    height: 300px;
+    width: 500px;
+    color: #fff;
+    background-image: url(https://media.istockphoto.com/photos/bokeh-background-of-hong-kong-cityscape-picture-id492442203?k=6&m=492442203&s=170667a&w=0&h=7GDjyVHTo8Wm6viO-hX1c0Ld7cyQi4ekD4MQ0VxADZE=);
+    border: 5px solid #fff;
+    border-radius: 15px;
+    background-position: center center ;
+}
